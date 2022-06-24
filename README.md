@@ -9,3 +9,6 @@ To view the website, [click here](https://mtalha2022skipq.github.io/Skipq-Course
 
 ## Module 4 assignment
 To view the website, [click here](https://mtalha2022skipq.github.io/Skipq-Coursera-1/module-4/easier/index.html)
+
+## Module 5 assignment
+To view the website, [click here](https://mtalha2022skipq.github.io/Skipq-Coursera-1/module-5/index.html)
